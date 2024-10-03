@@ -1,0 +1,18 @@
+#slideContainer{
+    width:305px;
+    height:auto;
+    border:2px solid black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+#slideContainer div{
+    width:100px;
+    height:100px;
+    background-color:#fff;
+    border:1px solid #fff;
+}
+.childElementImage{
+    width:100px;
+    height:100px;
+}
